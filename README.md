@@ -12,7 +12,7 @@ git clone https://github.com/iliacodeorg/site-ip.git
 
 cd site-ip
 
-python3 site-ip.py
+python3 ip-site.py
 
 # Linux
 apt-get update
@@ -27,4 +27,4 @@ git clone https://github.com/iliacodeorg/site-ip.git
 
 cd site-ip
 
-python3 site-ip.py
+python3 ip-site.py
